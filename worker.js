@@ -8,7 +8,7 @@
  * Learn more at https://developers.cloudflare.com/workers/
  */
 
-// ?domain=cloudflare.com&format=jaon
+// ?domain=cloudflare.com&format=json
 
 // 添加事件監聽器
 addEventListener('fetch', event => {
